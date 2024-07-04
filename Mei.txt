@@ -1,0 +1,24 @@
+2024-05-01|08:00 am|08:00 pm|Pembuatan konten|Membuat video tutorial membersihkan sepatu
+2024-05-02|08:00 am|08:00 pm|Antar sepatu|Mengantar sepatu pelanggan ke rumah mereka
+2024-05-03|08:00 am|08:00 pm|Pengecekan keuangan|Memeriksa laporan keuangan bulan April
+2024-05-06|08:00 am|08:00 pm|Pembuatan konten|Mengambil foto before-after cuci sepatu
+2024-05-07|08:00 am|08:00 pm|Antar sepatu|Mengantar pesanan ke beberapa pelanggan
+2024-05-08|08:00 am|08:00 pm|Planning katsikat|Menyusun rencana kerja mingguan
+2024-05-09|08:00 am|08:00 pm|Evaluasi pegawai|Menilai kinerja pegawai bulan April
+2024-05-10|08:00 am|08:00 pm|Antar sepatu|Mengirim sepatu yang telah dicuci ke pelanggan
+2024-05-13|08:00 am|08:00 pm|Planning promo|Merencanakan promosi untuk pertengahan bulan
+2024-05-14|08:00 am|08:00 pm|Pengecekan keuangan|Mengupdate pembukuan dan catatan keuangan
+2024-05-15|08:00 am|08:00 pm|Meeting dengan tim|Diskusi mengenai feedback pelanggan
+2024-05-16|08:00 am|08:00 pm|Pembuatan konten|Membuat blog post tentang tips merawat sepatu
+2024-05-17|08:00 am|08:00 pm|Antar sepatu|Distribusi sepatu ke beberapa pelanggan
+2024-05-20|08:00 am|08:00 pm|Evaluasi pegawai|Review mingguan kinerja tim
+2024-05-21|08:00 am|08:00 pm|Pembuatan konten|Mengedit video untuk promosi online
+2024-05-22|08:00 am|08:00 pm|Antar sepatu|Mengantar sepatu ke pelanggan tetap
+2024-05-23|08:00 am|08:00 pm|Pengecekan keuangan|Melakukan audit kecil untuk transaksi bulan ini
+2024-05-24|08:00 am|08:00 pm|Planning promo|Membuat strategi diskon untuk libur panjang
+2024-05-27|08:00 am|08:00 pm|Pembuatan konten|Merancang desain konten untuk media sosial
+2024-05-28|08:00 am|08:00 pm|Planning katsikat|Rapat rencana ekspansi layanan ke daerah baru
+2024-05-29|08:00 am|08:00 pm|Evaluasi pegawai|Menyusun laporan evaluasi bulanan
+2024-05-30|08:00 am|08:00 pm|Antar sepatu|Mengirim sepatu yang selesai dicuci ke pelanggan
+2024-05-31|08:00 am|08:00 pm|Pembuatan konten|Menyusun jadwal konten untuk bulan Juni
+
