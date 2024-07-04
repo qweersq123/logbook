@@ -1,0 +1,25 @@
+2024-06-01|OFF|OFF|OFF|OFF
+2024-06-03|08:00 am|08:00 pm|Meeting dengan tim|Membahas target bulanan Juni
+2024-06-04|08:00 am|08:00 pm|Pengecekan keuangan|Memeriksa arus kas dan saldo bank
+2024-06-05|08:00 am|08:00 pm|Antar sepatu|Mengirim sepatu ke pelanggan VIP
+2024-06-06|08:00 am|08:00 pm|Planning promo|Merencanakan kampanye diskon Hari Raya
+2024-06-07|08:00 am|08:00 pm|Evaluasi pegawai|Mengevaluasi kinerja tim selama minggu pertama
+2024-06-08|OFF|OFF|OFF|OFF
+2024-06-10|08:00 am|08:00 pm|Riset pasar|Mengumpulkan data tren terbaru di industri cuci sepatu
+2024-06-11|08:00 am|08:00 pm|Meeting dengan tim|Brainstorming ide layanan tambahan
+2024-06-12|08:00 am|08:00 pm|Pengecekan keuangan|Melakukan rekonsiliasi bank
+2024-06-13|08:00 am|08:00 pm|Antar sepatu|Distribusi sepatu yang telah dicuci ke pelanggan
+2024-06-14|08:00 am|08:00 pm|Pembuatan konten|Mengedit konten video untuk YouTube
+2024-06-15|OFF|OFF|OFF|OFF
+2024-06-17|08:00 am|08:00 pm|Evaluasi pegawai|Menilai kinerja individu dan memberikan feedback
+2024-06-18|08:00 am|08:00 pm|Pengecekan inventori|Memeriksa stok bahan dan alat pembersih
+2024-06-19|08:00 am|08:00 pm|Antar sepatu|Pengiriman sepatu ke pelanggan di area baru
+2024-06-20|08:00 am|08:00 pm|Planning promo|Menyusun strategi promosi di media sosial
+2024-06-21|08:00 am|08:00 pm|Pembuatan konten|Menulis artikel blog tentang perawatan sepatu
+2024-06-22|OFF|OFF|OFF|OFF
+2024-06-24|08:00 am|08:00 pm|Riset pasar|Mengevaluasi kebutuhan pelanggan melalui survei
+2024-06-25|08:00 am|08:00 pm|Pengecekan keuangan|Review laporan keuangan mingguan
+2024-06-26|08:00 am|08:00 pm|Antar sepatu|Mengantar sepatu pelanggan korporat
+2024-06-27|08:00 am|08:00 pm|Evaluasi pegawai|Review bulanan kinerja tim
+2024-06-28|08:00 am|08:00 pm|Planning katsikat|Membuat rencana ekspansi layanan
+2024-06-29|OFF|OFF|OFF|OFF
