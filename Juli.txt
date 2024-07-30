@@ -1,0 +1,31 @@
+2024-07-01|08:00 am|08:00 pm|Meeting internal|Diskusi strategi pemasaran
+2024-07-02|08:00 am|08:00 pm|Pengecekan kualitas|Memastikan standar kualitas sepatu
+2024-07-03|08:00 am|08:00 pm|Antar sepatu|Pengiriman sepatu ke pelanggan
+2024-07-04|08:00 am|08:00 pm|Riset kompetitor|Analisis layanan pesaing
+2024-07-05|08:00 am|08:00 pm|Pembuatan konten|Fotografi produk untuk Instagram
+2024-07-06|OFF|OFF|OFF|OFF
+2024-07-07|OFF|OFF|OFF|OFF
+2024-07-08|08:00 am|08:00 pm|Training pegawai|Pelatihan keterampilan baru
+2024-07-09|08:00 am|08:00 pm|Evaluasi marketing|Review hasil kampanye iklan
+2024-07-10|08:00 am|08:00 pm|Antar sepatu|Mengantar sepatu pesanan online
+2024-07-11|08:00 am|08:00 pm|Pengadaan barang|Pembelian alat dan bahan pembersih
+2024-07-12|08:00 am|08:00 pm|Pengecekan keuangan|Review anggaran bulanan
+2024-07-13|OFF|OFF|OFF|OFF
+2024-07-14|OFF|OFF|OFF|OFF
+2024-07-15|08:00 am|08:00 pm|Riset pasar|Survey kebutuhan pelanggan
+2024-07-16|08:00 am|08:00 pm|Antar sepatu|Pengiriman sepatu ke area baru
+2024-07-17|08:00 am|08:00 pm|Planning promo|Merencanakan diskon akhir bulan
+2024-07-18|08:00 am|08:00 pm|Evaluasi pegawai|Penilaian mingguan kinerja tim
+2024-07-19|08:00 am|08:00 pm|Pembuatan konten|Menulis artikel untuk blog
+2024-07-20|OFF|OFF|OFF|OFF
+2024-07-21|OFF|OFF|OFF|OFF
+2024-07-22|08:00 am|08:00 pm|Pengecekan inventori|Audit stok produk
+2024-07-23|08:00 am|08:00 pm|Meeting dengan tim|Strategi peningkatan layanan
+2024-07-24|08:00 am|08:00 pm|Pengecekan keuangan|Rekonsiliasi laporan keuangan
+2024-07-25|08:00 am|08:00 pm|Antar sepatu|Pengiriman sepatu khusus VIP
+2024-07-26|08:00 am|08:00 pm|Planning promo|Rencana promosi sosial media
+2024-07-27|OFF|OFF|OFF|OFF
+2024-07-28|OFF|OFF|OFF|OFF
+2024-07-29|08:00 am|08:00 pm|Pembuatan konten|Pengeditan video tutorial
+2024-07-30|08:00 am|08:00 pm|Evaluasi pegawai|Review bulanan kinerja individu
+2024-07-31|08:00 am|08:00 pm|Planning katsikat|Penyusunan strategi ekspansi
