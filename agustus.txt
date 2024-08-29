@@ -1,0 +1,27 @@
+2024-08-01|08:00 am|08:00 pm|Meeting internal|Membahas strategi personal branding
+2024-08-02|08:00 am|08:00 pm|Pembuatan konten|Fotografi dan editing untuk konten Instagram
+2024-08-03|08:00 am|08:00 pm|Persiapan booth|Koordinasi untuk persiapan booth di Binus
+2024-08-05|08:00 am|08:00 pm|Pengadaan barang|Membeli alat pengering sepatu
+2024-08-06|08:00 am|08:00 pm|Pengadaan barang|Pengecekan kualitas bahan pengering sepatu
+2024-08-07|08:00 am|08:00 pm|Evaluasi keuangan|Review anggaran dan laporan bulanan
+2024-08-08|08:00 am|08:00 pm|Riset pasar|Mengidentifikasi kebutuhan pelanggan baru
+2024-08-09|08:00 am|08:00 pm|Meeting internal|Diskusi terkait konten untuk kampanye marketing
+2024-08-10|08:00 am|08:00 pm|Pengiriman produk|Antar sepatu pesanan khusus
+2024-08-12|08:00 am|08:00 pm|Pembuatan konten|Penyusunan materi promosi online
+2024-08-13|08:00 am|08:00 pm|Riset kompetitor|Analisis strategi pesaing
+2024-08-14|08:00 am|08:00 pm|Pembuatan konten|Penulisan instagram tentang perawatan sepatu
+2024-08-15|08:00 am|08:00 pm|Pengecekan inventori|Audit stok dan kebutuhan pengadaan
+2024-08-16|08:00 am|08:00 pm|Meeting internal|Review progres persiapan booth di Binus
+2024-08-17|08:00 am|08:00 pm|Pengecekan kualitas|Kontrol kualitas produk baru
+2024-08-19|08:00 am|08:00 pm|Training pegawai|Pelatihan keterampilan customer service
+2024-08-20|08:00 am|08:00 pm|Training pegawai|Pelatihan keterampilan presentasi
+2024-08-21|08:00 am|08:00 pm|Pengadaan barang|Pembelian bahan baku baru
+2024-08-22|08:00 am|08:00 pm|Pembuatan konten|Pengeditan video untuk Tiktok
+2024-08-23|08:00 am|08:00 pm|Evaluasi pegawai|Penilaian bulanan kinerja tim
+2024-08-24|08:00 am|08:00 pm|Antar Jemput Sepatu|Antar jemput sepatu 
+2024-08-26|08:00 am|08:00 pm|Hari Pertama Booth|Melakukan penawaran ke freshmen
+2024-08-27|08:00 am|08:00 pm|Hari Kedua Booth|Menjual Parfum sepatu dan menjelaskan diskon
+2024-08-28|08:00 am|08:00 pm|Hari Ketiga Booth|Menawarkan voucer untuk cuci sepatu
+2024-08-29|08:00 am|08:00 pm|Evaluasi booth|Evaluasi persiapan booth selanjutnya 
+2024-08-30|08:00 am|08:00 pm|Evaluasi marketing|Review hasil kampanye bulan ini
+2024-08-31|08:00 am|08:00 pm|Riset kompetitor|Pemantauan tren pasar terbaru
