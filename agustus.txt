@@ -22,6 +22,3 @@
 2024-08-26|08:00 am|08:00 pm|Hari Pertama Booth|Melakukan penawaran ke freshmen
 2024-08-27|08:00 am|08:00 pm|Hari Kedua Booth|Menjual Parfum sepatu dan menjelaskan diskon
 2024-08-28|08:00 am|08:00 pm|Hari Ketiga Booth|Menawarkan voucer untuk cuci sepatu
-2024-08-29|08:00 am|08:00 pm|Evaluasi booth|Evaluasi persiapan booth selanjutnya 
-2024-08-30|08:00 am|08:00 pm|Evaluasi marketing|Review hasil kampanye bulan ini
-2024-08-31|08:00 am|08:00 pm|Riset kompetitor|Pemantauan tren pasar terbaru
