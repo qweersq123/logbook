@@ -1,1 +1,32 @@
-test
+2024-09-01|OFF|OFF|OFF|OFF
+2024-09-02|08:00 am|08:00 pm|Pembuatan konten|Membuat video tutorial membersihkan noda pada sepatu kulit
+2024-09-03|08:00 am|08:00 pm|Antar sepatu|Mengantar sepatu pelanggan ke rumah mereka
+2024-09-04|08:00 am|08:00 pm|Pengecekan keuangan|Melakukan review pembukuan dan mengevaluasi cash flow
+2024-09-05|08:00 am|08:00 pm|Planning katsikat|Rapat perencanaan strategi promosi bulan ini
+2024-09-06|08:00 am|08:00 pm|Pembuatan konten|Mengambil foto before-after sepatu hasil cuci dan reglue
+2024-09-07|08:00 am|08:00 pm|Antar sepatu|Distribusi sepatu ke pelanggan tetap di sekitar kota
+2024-09-08|OFF|OFF|OFF|OFF
+2024-09-09|08:00 am|08:00 pm|Planning promo|Membahas strategi diskon khusus untuk pelanggan setia
+2024-09-10|08:00 am|08:00 pm|Pembuatan konten|Mengedit video pendek untuk promosi di Instagram
+2024-09-11|08:00 am|08:00 pm|Antar sepatu|Pengantaran sepatu yang selesai dicuci ke pelanggan premium
+2024-09-12|08:00 am|08:00 pm|Pengecekan keuangan|Audit kecil transaksi minggu pertama bulan ini
+2024-09-13|08:00 am|08:00 pm|Planning katsikat|Rapat strategi pengelolaan shift karyawan part-time
+2024-09-14|08:00 am|08:00 pm|Pembuatan konten|Merancang konten edukasi untuk pelanggan tentang perawatan sepatu
+2024-09-15|OFF|OFF|OFF|OFF
+2024-09-16|08:00 am|08:00 pm|Evaluasi pegawai|Menyusun laporan evaluasi mingguan kinerja karyawan
+2024-09-17|08:00 am|08:00 pm|Planning promo|Menyusun rencana promo akhir bulan untuk menarik pelanggan baru
+2024-09-18|08:00 am|08:00 pm|Pembuatan konten|Mengedit video sebelum dan sesudah pencucian sepatu sneakers
+2024-09-19|08:00 am|08:00 pm|Antar sepatu|Distribusi barang pelanggan yang terlambat selesai
+2024-09-20|08:00 am|08:00 pm|Pengecekan keuangan|Memastikan semua invoice pelanggan sudah terkirim
+2024-09-21|08:00 am|08:00 pm|Planning katsikat|Diskusi peluang ekspansi layanan cuci sepatu ke kota lain
+2024-09-22|OFF|OFF|OFF|OFF
+2024-09-23|08:00 am|08:00 pm|Pembuatan konten|Menyusun desain promosi untuk iklan Facebook Ads
+2024-09-24|08:00 am|08:00 pm|Planning promo|Mengatur jadwal promo bertema akhir bulan
+2024-09-25|08:00 am|08:00 pm|Antar sepatu|Mengantar sepatu hasil reglue ke pelanggan setia
+2024-09-26|08:00 am|08:00 pm|Pengecekan keuangan|Melakukan review transaksi bulan berjalan
+2024-09-27|08:00 am|08:00 pm|Planning katsikat|Rapat persiapan pembukaan cabang baru
+2024-09-28|08:00 am|08:00 pm|Pembuatan konten|Mengedit foto hasil perawatan sepatu kulit premium
+2024-09-29|OFF|OFF|OFF|OFF
+2024-09-30|08:00 am|08:00 pm|Evaluasi pegawai|Menyusun laporan evaluasi bulanan untuk semua tim
+
+
